@@ -12,5 +12,6 @@
 - [2025.02.08](https://github.com/100-hours-a-week/luckyPrice-til/blob/main/1%EC%9B%94~2%EC%9B%94/02-08.md): VLAN, Trunk, Inter-VLAN
 - [2025.02.09](https://github.com/100-hours-a-week/luckyPrice-til/blob/main/1%EC%9B%94~2%EC%9B%94/02-09.md): 네트워크 구성, 서브넷팅, 라우팅, 방화벽 정책
 
-## ~ 2025-02 : docker
+## 2025-02-10 ~ : docker
 - [2025.02.10](https://github.com/100-hours-a-week/luckyPrice-til/blob/main/1%EC%9B%94~2%EC%9B%94/02-10.md): docker, 컨테니어
+- [2025.02.11](https://github.com/100-hours-a-week/luckyPrice-til/blob/main/1%EC%9B%94~2%EC%9B%94/02-11.md): docker 실습, docker file, 크램폴린 ide 배포
