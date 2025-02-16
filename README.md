@@ -18,4 +18,5 @@
 - [2025.02.12](https://github.com/100-hours-a-week/luckyPrice-til/blob/main/1%EC%9B%94~2%EC%9B%94/02-12.md): docker image, docker container, 서드파티 컨테이너
 - [2025.02.13](https://github.com/100-hours-a-week/luckyPrice-til/blob/main/1%EC%9B%94~2%EC%9B%94/02-13.md): docker compose, Gitlab, Gitlab-runner
 - [2025.02.14](https://github.com/100-hours-a-week/luckyPrice-til/blob/main/1%EC%9B%94~2%EC%9B%94/02-14.md): Private Registry, TLS/SSL 인증, htpasswd
-- [2025.02.15](https://github.com/100-hours-a-week/luckyPrice-til/blob/main/1%EC%9B%94~2%EC%9B%94/02-15.md): 도커(Docker) 객체들과 상호작용, notary, DCT(docker content trust)ß
+- [2025.02.15](https://github.com/100-hours-a-week/luckyPrice-til/blob/main/1%EC%9B%94~2%EC%9B%94/02-15.md): 도커(Docker) 객체들과 상호작용, notary, DCT(docker content trust)
+- [2025.02.13](https://github.com/100-hours-a-week/luckyPrice-til/blob/main/1%EC%9B%94~2%EC%9B%94/02-16.md): docker, terraform
