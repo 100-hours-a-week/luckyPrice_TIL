@@ -24,3 +24,4 @@
 ## 2025-02-17 ~ : 쿠버네티스스
 - [2025.02.17](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-17.md): 쿠버네티스, minikube
 - [2025.02.18](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-18.md): 오브젝트, 파드, 클러스터 네트워크, 서비스
+- [2025.02.19](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-19.md): 파드, busybox, 프로브, health check, 사이드카 패턴
