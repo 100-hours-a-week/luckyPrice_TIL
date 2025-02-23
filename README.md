@@ -21,7 +21,7 @@
 - [2025.02.15](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-15.md): 도커(Docker) 객체들과 상호작용, notary, DCT(docker content trust)
 - [2025.02.16](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-16.md): docker, gitlab runner, CI/CD구축.
 
-## 2025-02-17 ~ : 쿠버네티스스
+## 2025-02-17 ~ : 쿠버네티스
 - [2025.02.17](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-17.md): 쿠버네티스, minikube
 - [2025.02.18](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-18.md): 오브젝트, 파드, 클러스터 네트워크, 서비스
 - [2025.02.19](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-19.md): 파드, busybox, 프로브, health check, 사이드카 패턴
@@ -29,3 +29,5 @@
 - [2025.02.21](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-21.md): 리플리카셋, 디플로이먼트, helm, 로드밸런서 서비스.
 - [2025.02.22](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-22.md): 
 Prometheus + Grafana 쿠버네티스 모니터링
+- [2025.02.23](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-23.md): 
+비스(Service) 및 Ingress 설정, AWS LoadBalancer(NLB), 웹 애플리케이션 배포
