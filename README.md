@@ -39,5 +39,5 @@ Prometheus + Grafana 쿠버네티스 모니터링
 해커톤 프로젝트-1
 - [2025.02.26](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-25.md):
 해커톤 프로젝트-2
-- [2025.02.31](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/03-01.md):
+- [2025.03.01](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-01.md):
 해커톤 프로젝트-3
