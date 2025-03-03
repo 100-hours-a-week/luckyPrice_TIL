@@ -43,3 +43,5 @@ Prometheus + Grafana 쿠버네티스 모니터링
 해커톤 프로젝트-3
 - [2025.03.02](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-02.md):
 해커톤 프로젝트-회고록
+- [2025.03.03](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-02.md):
+-----
