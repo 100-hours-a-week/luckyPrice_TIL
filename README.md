@@ -27,19 +27,13 @@
 - [2025.02.19](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-19.md): 파드, busybox, 프로브, health check, 사이드카 패턴
 - [2025.02.20](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-20.md): 멀티노드 Kubernetes 클러스터 구축, ec2
 - [2025.02.21](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-21.md): 리플리카셋, 디플로이먼트, helm, 로드밸런서 서비스.
-- [2025.02.22](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-22.md): 
-Prometheus + Grafana 쿠버네티스 모니터링
-- [2025.02.23](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-23.md): 
-서비스(Service) 및 Ingress 설정, AWS LoadBalancer(NLB), HPA, 부하 테스트
+- [2025.02.22](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-22.md): Prometheus + Grafana 쿠버네티스 모니터링
+- [2025.02.23](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-23.md): 서비스(Service) 및 Ingress 설정, AWS LoadBalancer(NLB), HPA, 부하 테스트
 
 ## 2025-02-24 ~ : 클라우드, 해커톤
-- [2025.02.24](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-24.md):
-클라우드, AWS
-- [2025.02.25](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-25.md):
-해커톤 프로젝트-1
-- [2025.02.26](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-25.md):
-해커톤 프로젝트-2
-- [2025.03.01](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-01.md):
-해커톤 프로젝트-3
-- [2025.03.02](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-02.md):
-해커톤 프로젝트-회고록
+- [2025.02.24](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-24.md): 클라우드, AWS
+- [2025.02.25](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-25.md): 해커톤 프로젝트-1
+- [2025.02.26](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-25.md): 해커톤 프로젝트-2
+- [2025.03.01](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-01.md): 해커톤 프로젝트-3
+- [2025.03.02](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-02.md): 해커톤 프로젝트-회고록
+- [2025.03.04](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-04.md): AWS 3Tier Architecture
