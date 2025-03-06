@@ -30,7 +30,7 @@
 - [2025.02.22](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-22.md): Prometheus + Grafana 쿠버네티스 모니터링
 - [2025.02.23](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-23.md): 서비스(Service) 및 Ingress 설정, AWS LoadBalancer(NLB), HPA, 부하 테스트
 
-## 2025-02-24 ~ : 클라우드, 해커톤
+## 2025-02-24 ~ : 클라우드 서비스, 해커톤
 - [2025.02.24](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-24.md): 클라우드, AWS
 - [2025.02.25](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-25.md): 해커톤 프로젝트-1
 - [2025.02.26](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/1%EC%9B%94~2%EC%9B%94/02-25.md): 해커톤 프로젝트-2
