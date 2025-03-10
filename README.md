@@ -44,3 +44,4 @@
 - [2025.03.07](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-07.md): ACM, Route 53, CNAME
 - [2025.03.08](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-08.md): Route53 vs 외부 도메인
 - [2025.03.09](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-09.md): 3 Tier Architecture 구축(1) - VPC, OpenVPN, COMPUTE
+- [2025.03.10](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-09.md): 3 Tier Architecture 구축(2) - RDS
