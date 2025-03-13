@@ -37,11 +37,15 @@
 - [2025.03.01](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-01.md): 해커톤 프로젝트-3
 - [2025.03.02](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-02.md): 해커톤 프로젝트-회고록
 
-## 2025-03-04 ~ : 클라우드
+## 2025-03-03 ~ : 클라우드
 - [2025.03.04](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-04.md): AWS 3Tier Architecture
 - [2025.03.05](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-05.md): 해커톤 프로젝트-최종결과물
 - [2025.03.06](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-06.md): 보안 그룹 vs NACL
 - [2025.03.07](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-07.md): ACM, Route 53, CNAME
 - [2025.03.08](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-08.md): Route53 vs 외부 도메인
 - [2025.03.09](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-09.md): 3 Tier Architecture 구축(1) - VPC, OpenVPN, COMPUTE
-- [2025.03.10](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-09.md): 3 Tier Architecture 구축(2) - RDS
+
+
+## 2025-03-03 ~ : 클라우드
+- [2025.03.10](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-10.md): 3 Tier Architecture 구축(2) - RDS
+- [2025.03.11](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-01.md): 3 Tier Architecture 구축(3) - ACM, Route53, WAF
