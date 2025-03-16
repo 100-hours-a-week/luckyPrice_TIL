@@ -51,5 +51,5 @@
 - [2025.03.11](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-11.md): 3 Tier Architecture 구축(3) - ACM, Route53, WAF
 - [2025.03.12](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-12.md): ECS/Fargate를 사용한 웹 시스템 구축-(1)
 - [2025.03.13](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-13.md): ECS/Fargate를 사용한 웹 시스템 구축-오케스트레이션 구축.
-- [2025.03.14](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-13.md): ECS/Fargate를 사용한 웹 시스템 구축- Aurora 데이터베이스스
-- [2025.03.14](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-13.md): ECS/Fargate를 사용한 웹 시스템 구축- CodeBuild, CodeDeploy, CodePipeline
+- [2025.03.14](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-14.md): ECS/Fargate를 사용한 웹 시스템 구축-Aurora 데이터베이스스
+- [2025.03.15](https://github.com/100-hours-a-week/luckyPrice_TIL/blob/main/3%EC%9B%94/03-15.md): ECS/Fargate를 사용한 웹 시스템 구축-CodeBuild, CodeDeploy, CodePipeline
